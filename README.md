@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Testing react-beautiful-dnd
 
-Learn more: [https://github.com/atlassian/react-beautiful-dnd](github.com/atlassian/react-beautiful-dnd)
+Learn more: [https://github.com/atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 
 ## Available Scripts
 
