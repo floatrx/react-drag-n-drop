@@ -1,0 +1,60 @@
+body {
+    background: #242424;
+    color: #fff;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    margin-bottom: 2rem;
+}
+header h1 {
+    margin: 0;
+}
+.source > div {
+    display: flex;
+    flex-direction: column;
+    bottom: 1px;
+    min-height: 90vh;
+    text-align: center;
+}
+
+.dnd-number {
+    overflow: visible;
+    font-size: 2rem;
+    padding: 2rem;
+    font-weight: bold;
+    background: purple;
+    color: #fff;
+    margin: 0.1rem;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.size-one {
+    width: 1rem;
+}
+.size-two {
+    width: 4rem;
+}
+.size-three {
+    width: 6rem;
+    height: 1rem;
+}
+.size-four {
+    width: 10rem;
+    height: 1.5rem;
+}
+.size-five {
+    width: 14rem;
+    height: 2rem;
+}
+.size-six {
+    width: 16rem;
+    height: 3rem;
+}
+.size-seven {
+    width: 18rem;
+    height: 4rem;
+}
